@@ -25,7 +25,7 @@ This project analyzes more than two decades (2000–2024) of U.S. large‑cap st
 
 - Latent Factors Over Time (2000–2024)  
   Shows standardized factor scores and highlights periods where all factors co‑move, such as during 2008 and 2020.
-  ![Latent Factors Over Time](images/factor_year.jpeg)
+  ![Latent Factors Over Time](images/factor_year.jpg)
 
 - Sector Exposure Heatmap
   Displays average factor loadings by sector, making it easy to see which factors correspond to Financials, Energy, Healthcare, and other sectors.
